@@ -1,1 +1,7 @@
 tkinter
+os
+webbrowser
+subprocess
+ttk
+scrolledtextttk
+messagebox
